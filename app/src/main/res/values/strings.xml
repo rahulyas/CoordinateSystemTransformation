@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoordinateSystemTransformation</string>
+    <string name="required">Required</string>
+    <string name="email">Email</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>
